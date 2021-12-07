@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ONTAPKETHUCMON</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCDHQ88i-ODuM0eivU3y8VaLiilyWavsRo</string>
+</resources>
