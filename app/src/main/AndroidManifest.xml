@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ONTAPKETHUCMON">
         <activity
+            android:name=".Phuong"
+            android:exported="false" />
+        <activity
             android:name=".Thuthu"
             android:exported="false" />
         <activity
